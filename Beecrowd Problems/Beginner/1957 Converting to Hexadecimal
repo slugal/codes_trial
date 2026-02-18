@@ -1,0 +1,16 @@
+## Try 1
+#include <stdio.h>
+int main()
+{
+
+  int a, b;
+
+  scanf("%d ", &a);
+ 
+ printf("%x\n",'a'-32);
+ char x = 'b'-32;
+ printf("%c",x);
+ 
+
+  return 0;
+}
